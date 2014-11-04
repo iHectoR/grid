@@ -1,0 +1,15 @@
+body{
+	color: white;
+	font-family: Arial, sans-serif;
+}
+.wrap{
+	padding: 20px;
+}
+.box{
+	background-color: #dddddd;
+	font-size: 20px;
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+	text-shadow: 0 1px 1px #999;
+}
